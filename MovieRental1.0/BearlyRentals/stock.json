@@ -1,0 +1,534 @@
+{
+    "number": 88,
+    "member": {
+      "1": {
+        "name": "American Sniper",
+        "location": "M1",
+        "status": "On Shelf at M1",
+        "genre": "Action and Adventure"
+      },
+      "2": {
+        "name": "Antitrust",
+        "location": "M1",
+        "status": "On Shelf at M1",
+        "genre": "Action and Adventure"
+      },
+      "3": {
+        "name": "Blown Away",
+        "location": "M1",
+        "status": "On Shelf at M1",
+        "genre": "Action and Adventure"
+      },
+      "4": {
+        "name": "Bullet to the Head",
+        "location": "M1",
+        "status": "On Shelf at M1",
+        "genre": "Action and Adventure"
+      },
+      "5": {
+        "name": "Chain Reaction",
+        "location": "M1",
+        "status": "On Shelf at M1",
+        "genre": "Action and Adventure"
+      },
+      "6": {
+        "name": "Clear and Present Danger",
+        "location": "M1",
+        "status": "On Shelf at M1",
+        "genre": "Action and Adventure"
+      },
+      "7": {
+        "name": "Aqua Teen Hunger Force",
+        "location": "M2",
+        "status": "On Shelf at M2",
+        "genre": "Animation"
+      },
+      "8": {
+        "name": "Primal",
+        "location": "M2",
+        "status": "On Shelf at M2",
+        "genre": "Animation"
+      },
+      "9": {
+        "name": "Home Movies",
+        "location": "M2",
+        "status": "On Shelf at M2",
+        "genre": "Animation"
+      },
+      "10": {
+        "name": "Samurai Jack",
+        "location": "M2",
+        "status": "On Shelf at M2",
+        "genre": "Animation"
+      },
+      "11": {
+        "name": "South Park",
+        "location": "M2",
+        "status": "On Shelf at M2",
+        "genre": "Animation"
+      },
+      "12": {
+        "name": "The Boondocks",
+        "location": "M2",
+        "status": "On Shelf at M2",
+        "genre": "Animation"
+      },
+      "13": {
+        "name": "8 Bit Christmas",
+        "location": "M3",
+        "status": "On Shelf at M3",
+        "genre": "Comedy"
+      },
+      "14": {
+        "name": "Avenue 5",
+        "location": "M3",
+        "status": "On Shelf at M3",
+        "genre": "Comedy"
+      },
+      "15": {
+        "name": "Balls of Fury",
+        "location": "M5",
+        "status": "On Shelf at M5",
+        "genre": "Comedy"
+      },
+      "16": {
+        "name": "Be Kind Rewind",
+        "location": "M3",
+        "status": "On Shelf at M3",
+        "genre": "Comedy"
+      },
+      "17": {
+        "name": "Blazing Saddles",
+        "location": "M3",
+        "status": "On Shelf at M3",
+        "genre": "Comedy"
+      },
+      "18": {
+        "name": "Bored to Death",
+        "location": "M3",
+        "status": "On Shelf at M3",
+        "genre": "Comedy"
+      },
+      "19": {
+        "name": "88 Minutes",
+        "location": "M4",
+        "status": "On Shelf at M4",
+        "genre": "Crime"
+      },
+      "20": {
+        "name": "A Body in the Basement",
+        "location": "M4",
+        "status": "On Shelf at M4",
+        "genre": "Crime"
+      },
+      "21": {
+        "name": "A Time to Kill",
+        "location": "M4",
+        "status": "On Shelf at M4",
+        "genre": "Crime"
+      },
+      "22": {
+        "name": "American Monster",
+        "location": "M4",
+        "status": "On Shelf at M4",
+        "genre": "Crime"
+      },
+      "23": {
+        "name": "Autopsy",
+        "location": "M4",
+        "status": "On Shelf at M4",
+        "genre": "Crime"
+      },
+      "24": {
+        "name": "Black Mass",
+        "location": "M4",
+        "status": "On Shelf at M4",
+        "genre": "Crime"
+      },
+      "25": {
+        "name": "4 Blocks",
+        "location": "M5",
+        "status": "On Shelf at M5",
+        "genre": "Drama"
+      },
+      "26": {
+        "name": "A Ghost Story",
+        "location": "M5",
+        "status": "On Shelf at M5",
+        "genre": "Drama"
+      },
+      "27": {
+        "name": "Act of Valor",
+        "location": "M5",
+        "status": "On Shelf at M5",
+        "genre": "Drama"
+      },
+      "28": {
+        "name": "Sopranos",
+        "location": "M5",
+        "status": "On Shelf at M5",
+        "genre": "Drama"
+      },
+      "29": {
+        "name": "American Honey",
+        "location": "M5",
+        "status": "On Shelf at M5",
+        "genre": "Drama"
+      },
+      "30": {
+        "name": "Anthropoid",
+        "location": "M5",
+        "status": "On Shelf at M5",
+        "genre": "Drama"
+      },
+      "31": {
+        "name": "Cabin Fever",
+        "location": "M6",
+        "status": "On Shelf at M6",
+        "genre": "Horror"
+      },
+      "32": {
+        "name": "Carrie",
+        "location": "M6",
+        "status": "On Shelf at M6",
+        "genre": "Horror"
+      },
+      "33": {
+        "name": "Aliens",
+        "location": "M6",
+        "status": "On Shelf at M6",
+        "genre": "Horror"
+      },
+      "34": {
+        "name": "Cujo",
+        "location": "M6",
+        "status": "On Shelf at M6",
+        "genre": "Horror"
+      },
+      "35": {
+        "name": "Friday the 13th",
+        "location": "M6",
+        "status": "On Shelf at M6",
+        "genre": "Horror"
+      },
+      "36": {
+        "name": "Folklore",
+        "location": "M6",
+        "status": "On Shelf at M6",
+        "genre": "Horror"
+      },
+      "37": {
+        "name": "2001 A Space Odyssey",
+        "location": "M7",
+        "status": "On Shelf at M7",
+        "genre": "Science Fiction"
+      },
+      "38": {
+        "name": "A Clockwork Orange",
+        "location": "M7",
+        "status": "On Shelf at M7",
+        "genre": "Science Fiction"
+      },
+      "39": {
+        "name": "Aliens",
+        "location": "M7",
+        "status": "On Shelf at M7",
+        "genre": "Science Fiction"
+      },
+      "40": {
+        "name": "Avatar",
+        "location": "M7",
+        "status": "On Shelf at M7",
+        "genre": "Science Fiction"
+      },
+      "41": {
+        "name": "After Earth",
+        "location": "M7",
+        "status": "On Shelf at M7",
+        "genre": "Science Fiction"
+      },
+      "42": {
+        "name": "Aquaman",
+        "location": "M7",
+        "status": "On Shelf at M7",
+        "genre": "Science Fiction"
+      },
+      "43": {
+        "name": "Low tide",
+        "location": "M8",
+        "status": "On Shelf at M8",
+        "genre": "Thriller"
+      },
+      "44": {
+        "name": "Married to Evil",
+        "location": "M8",
+        "status": "On Shelf at M8",
+        "genre": "Thriller"
+      },
+      "45": {
+        "name": "Mass Ave",
+        "location": "M8",
+        "status": "On Shelf at M8",
+        "genre": "Thriller"
+      },
+      "46": {
+        "name": "Monsters and Men",
+        "location": "M8",
+        "status": "On Shelf at M8",
+        "genre": "Thriller"
+      },
+      "47": {
+        "name": "Murder Comes to Town",
+        "location": "M8",
+        "status": "On Shelf at M8",
+        "genre": "Thriller"
+      },
+      "48": {
+        "name": "Murder in the Heartland",
+        "location": "M8",
+        "status": "On Shelf at M8",
+        "genre": "Thriller"
+      },
+      "49": {
+        "name": "March of the Penguins",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "50": {
+        "name": "An Inconvenient Truth",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "51": {
+        "name": "Bowling for Columbine",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "52": {
+        "name": "Man on Wire",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "53": {
+        "name": "Super Size Me",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "54": {
+        "name": "Blackfish",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "55": {
+        "name": "The Act of Killing",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "56": {
+        "name": "Jiro Dreams of Sushi",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "57": {
+        "name": "The Cove",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "58": {
+        "name": "Inside Job",
+        "location": "M9",
+        "status": "On Shelf at M9",
+        "genre": "Documentary"
+      },
+      "59": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "60": {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "61": {
+        "name": "Pan's Labyrinth",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "62": {
+        "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "63": {
+        "name": "Stardust",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "64": {
+        "name": "The Princess Bride",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "65": {
+        "name": "Alice in Wonderland",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "66": {
+        "name": "The Shape of Water",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "67": {
+        "name": "Spirited Away",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "68": {
+        "name": "The Wizard of Oz",
+        "location": "M10",
+        "status": "On Shelf at M10",
+        "genre": "Fantasy"
+      },
+      "69": {
+        "name": "The Notebook",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "70": {
+        "name": "Titanic",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "71": {
+        "name": "Pride and Prejudice",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "72": {
+        "name": "La La Land",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "73": {
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "74": {
+        "name": "A Walk to Remember",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "75": {
+        "name": "Romeo + Juliet",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "76": {
+        "name": "The Shape of Water",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "77": {
+        "name": "Before Sunrise",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "78": {
+        "name": "Call Me by Your Name",
+        "location": "M11",
+        "status": "On Shelf at M11",
+        "genre": "Romance"
+      },
+      "79": {
+        "name": "The Good, the Bad and the Ugly",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "80": {
+        "name": "Unforgiven",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "81": {
+        "name": "Django Unchained",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "82": {
+        "name": "True Grit",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "83": {
+        "name": "The Magnificent Seven",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "84": {
+        "name": "Butch Cassidy and the Sundance Kid",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "85": {
+        "name": "The Searchers",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "86": {
+        "name": "Once Upon a Time in the West",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "87": {
+        "name": "Tombstone",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      },
+      "88": {
+        "name": "3:10 to Yuma",
+        "location": "M12",
+        "status": "On Shelf at M12",
+        "genre": "Western"
+      }
+    }
+  }
+  
